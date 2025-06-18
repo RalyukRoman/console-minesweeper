@@ -1,0 +1,4 @@
+Roman, 9x9, 00:50, Flags: 27, LOSE
+Roman, 9x9, 00:02, Flags: 27, LOSE
+Roman, 9x9, 00:50, Flags: 27, LOSE
+Roman, 9x9, 00:02, Flags: 27, LOSE
