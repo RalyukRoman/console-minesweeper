@@ -6,7 +6,7 @@ This project is a console minesweeper game that contains menus, settings, and th
 2. Set the project Minesweeper as the Startup Project
 3. Build and run the projec
 
-# Utils
+## Utils
 - iostream
 - Windows.h
 - conio.h
